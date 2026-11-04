@@ -5,6 +5,18 @@
 
 🌐 **[Live Website](https://entrenoscordoba.com.ar)**
 
+
+## Application Screenshots
+
+### Landing Page
+![Entre Nos Landing Page](1_.jpg)
+
+### Registration Experience
+![Entre Nos Registration](2_.jpg)
+
+### Application Interface
+![Entre Nos Application](3.jpg)
+
 ## About the Project
 
 Entre Nos is a full-stack web application designed to connect people through curated social dining experiences in Córdoba, Argentina.

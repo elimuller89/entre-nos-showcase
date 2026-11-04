@@ -9,7 +9,7 @@
 ## Application Screenshots
 
 ### Landing Page
-![Entre Nos Landing Page](1_.jpg)
+![Entre Nos Landing Page](1__.jpg)
 
 ### Registration Experience
 ![Entre Nos Registration](2_.jpg)
